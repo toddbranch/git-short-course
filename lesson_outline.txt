@@ -1,0 +1,22 @@
+Guiding Principles
+- Lessons should be short (~5 min each)
+- Use videos as core teaching element
+	- Listing of commands and description of commands beneath video
+		- Could we use javascript to change these as the video progresses?  Would be cool...
+
+Course Outline
+
+Prereqs
+Command Line Essentials
+
+Course
+Intro / Why Use git?
+Installation
+Create Repo / Tracking Files / Commit
+Staging Process / Diff
+Commit History / Rolling Back
+Remotes / Putting a Repo on Github
+Cloning / Using Someone Else's Code
+Forking
+Pull Requests / Contributing to Repos
+Branching
